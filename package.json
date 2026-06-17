@@ -1,0 +1,17 @@
+{
+  "name": "kontoplus",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "KontoPlus — biuro rachunkowe i księgowe. Profesjonalna obsługa księgowa dla firm.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": { "astro": "^5.7.0" },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.17",
+    "tailwindcss": "^4.0.17"
+  }
+}
