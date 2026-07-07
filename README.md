@@ -1,6 +1,6 @@
 # KontoPlus — Strona Biura Rachunkowego
 
-Przykładowa strona-wizytówka dla fikcyjnego biura rachunkowego **KontoPlus**. Projekt tworzony jako element portfolio stronainternetowa.biz.
+Przykładowa strona-wizytówka dla fikcyjnego biura rachunkowego **KontoPlus**. Projekt tworzony jako element portfolio 100strona.pl.
 
 ## O stronie
 
@@ -19,7 +19,7 @@ Profesjonalna, korporacyjna strona one-page dla biura księgowego. Styl: czysty,
 6. Dlaczego my (6 atutów z ikonami)
 7. Opinie klientów (4 recenzje)
 8. Formularz kontaktu + dane + mapa OSM
-9. Footer z creditem stronainternetowa.biz
+9. Footer z creditem 100strona.pl
 
 ## Stack
 
